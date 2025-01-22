@@ -1,0 +1,10 @@
+{
+    "domain": "micropic_energy_meter",
+    "name": "Micropic Energy Meter",
+    "version": "1.0.0",
+    "documentation": "https://github.com/ProyectosMicroPIC",
+    "dependencies": ["mqtt"],
+    "requirements": [],
+    "codeowners": ["@ProyectosMicroPIC"],
+    "config_flow": true
+}
